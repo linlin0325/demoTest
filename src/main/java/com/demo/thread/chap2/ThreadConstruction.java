@@ -1,4 +1,4 @@
-package com.demo.thread;
+package com.demo.thread.chap2;
 
 import java.util.stream.IntStream;
 

@@ -1,4 +1,4 @@
-package com.demo.thread;
+package com.demo.thread.chap1;
 
 import java.util.concurrent.TimeUnit;
 import java.util.stream.IntStream;

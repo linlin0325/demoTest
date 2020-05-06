@@ -1,4 +1,4 @@
-package com.demo.thread;
+package com.demo.thread.chap1;
 
 public class TicketWindowRunnable implements Runnable {
     private int index = 1;

@@ -1,4 +1,4 @@
-package com.demo.thread;
+package com.demo.thread.chap2;
 
 public class DaemonThread {
     public static void main(String[] args) throws InterruptedException {

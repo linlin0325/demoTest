@@ -1,4 +1,4 @@
-package com.demo.thread;
+package com.demo.thread.chap1;
 
 public class TicketWindow extends Thread {
     private final String name;
