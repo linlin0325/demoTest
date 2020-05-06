@@ -1,8 +1,8 @@
-package com.demo;
+package com.demo.thread;
 
 import java.util.concurrent.TimeUnit;
 
-public class Test {
+public class TestThread {
     public static void main(String[] args) {
         Thread a = new Thread(){
             @Override

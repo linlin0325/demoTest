@@ -1,4 +1,4 @@
-package com.demo;
+package com.demo.thread;
 
 public class TemplateMethod {
     public final void print(String msg){
